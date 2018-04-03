@@ -1,0 +1,19 @@
+{
+  "name": "oilwp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenysHnatiuk/oilwp.git"
+  },
+  "author": "Den Hnatiuk <denys.hnatiuk@gmail.com>",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/DenysHnatiuk/oilwp/issues"
+  },
+  "homepage": "https://github.com/DenysHnatiuk/oilwp#readme"
+}
